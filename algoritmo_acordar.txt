@@ -1,0 +1,28 @@
+INICIO
+
+Acordo
+Abro os olhos
+Me levanto
+Desligo o despertador
+Caminho até o banheiro
+Ligo a luz
+Abro a torneira
+Pego água com as mãos
+Lavo o rosto com a água
+Fecho a torneira
+Pego a toalha
+Seco o rosto
+Guardo a toalha
+Pego a escova
+Pego a pasta de dente
+Coloco pasta na escova
+Guardo a pasta
+Escovo os dentes
+Escovo a lingua
+Abro a torneira
+Enxáguo a boca
+Fecho a torneira
+Pego a toalha
+Seco o rosto
+
+FIM
